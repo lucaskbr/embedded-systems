@@ -7,7 +7,6 @@ int hours = 0;
 
 void setup()
 {
-
   lcd.begin(16, 2);
 }
 
